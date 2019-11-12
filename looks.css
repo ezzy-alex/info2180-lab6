@@ -1,0 +1,72 @@
+.header {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: maroon;
+
+}
+
+h2 {
+    color: white;
+    padding: 20px;
+    
+}
+
+.top {
+    background-color: blue;
+       text-align: center;
+}
+
+.all_sections{
+    text-align: center;
+    alignment-baseline:central; 
+}
+
+h4 {
+    padding-top: .5px;
+    padding-left: 80px;
+    font-family: "Times New Romans", serif;
+    font-size: 23px;
+}
+
+.flex_container {
+    padding-left: 80px;
+    padding-right: 80px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+#form {
+    width: 100%;
+}
+
+.space {
+    padding: 2px;
+}
+
+.together {
+    display: flex;
+    flex-direction: row;
+  }
+
+#submit {
+    padding: 14px 20px;
+    color: white;
+    border: red;
+    border-radius: 12px;
+    background-color: red;
+}
+
+.result {
+    padding-top: 10px;
+    padding-bottom: 3px;
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    font-family: "Arial", san serif;
+
+}
